@@ -54,7 +54,10 @@ And at last, the data can have a datatype, which makes easier to work with it. S
 With this base, let's try to explain the logical structures.
 
 ##### Logical Structures:
-Let's see the blocks first. We can say somebody to do something or many things in an specific order. This is a BLOCK of instructions and a computer always will follow it STEP BY STEP, SECUENTIALY, IN ORDER.
+[BLOCKS]
+We can say somebody to do something or many things in an specific order. This is a BLOCK of instructions and a computer always will follow its instructions STEP BY STEP, SECUENTIALY, IN ORDER.
+[CONDITIONALS]
+Now, there're many times we want to make some things acording to certain conditions. One way to "emulate" this is to 
 
 ##### Bibliography:
 - Tecnicas de programacion - Editorial PARAINFO
